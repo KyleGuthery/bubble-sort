@@ -11,7 +11,6 @@ def bubble_sort (array)
       end
     end
   end
-  p array
   return array
 end
 
